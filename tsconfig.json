@@ -4,8 +4,7 @@
     "target": "ES6",
     "sourceMap": true,
     "noImplicitAny": true,
-    "noImplicitReturns": true,
-    "noImplicitThis": true
+    "noImplicitReturns": true
   },
   "compileOnSave": false
 }
