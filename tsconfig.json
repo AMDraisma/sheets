@@ -6,5 +6,8 @@
     "noImplicitAny": true,
     "noImplicitReturns": true
   },
-  "compileOnSave": false
+  "compileOnSave": false,
+  "files": [
+    "js/sheets.ts"
+  ]
 }
