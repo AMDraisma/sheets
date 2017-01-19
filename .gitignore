@@ -1,4 +1,9 @@
+# typescript output
 js/*.js*
 
+# dependencies
 node_modules/*
 typings/*
+
+# vscode
+.vscode/*
