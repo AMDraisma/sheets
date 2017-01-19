@@ -1,5 +1,6 @@
 # typescript output
-js/*.js*
+js/*.js
+js/*.js.map
 
 # dependencies
 node_modules/*
