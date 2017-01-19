@@ -1,0 +1,6 @@
+{
+  "globalDependencies": {
+    "jquery": "registry:dt/jquery#1.10.0+20170104155652",
+    "three": "registry:dt/three#0.83.0+20170118054749"
+  }
+}
