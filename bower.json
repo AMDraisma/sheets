@@ -1,0 +1,28 @@
+{
+  "name": "sheets",
+  "homepage": "https://github.com/AMDraisma/sheets",
+  "authors": [
+    "Crude Oil"
+  ],
+  "description": "A web app for music sheets",
+  "main": "index.html",
+  "keywords": [
+    "music",
+    "creative",
+    "webapp",
+    "sheets"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "three": "latest",
+    "kontan/three.d.ts": "latest"
+  }
+}
