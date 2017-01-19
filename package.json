@@ -1,0 +1,32 @@
+{
+  "name": "sheets",
+  "version": "1.0.0",
+  "description": "Sheet music web app",
+  "main": " ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AMDraisma/sheets.git"
+  },
+  "keywords": [
+    "sheet",
+    "music",
+    "web",
+    "app",
+    "creative"
+  ],
+  "author": "Crude Oil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AMDraisma/sheets/issues"
+  },
+  "homepage": "https://github.com/AMDraisma/sheets#readme",
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "bootstrap": "^3.3.7",
+    "typings": "^2.1.0",
+    "three": "^0.84.0"
+  }
+}
