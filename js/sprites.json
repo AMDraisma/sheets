@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Full note",
+        "sprite": "4.png"
+    },
+    {
+        "name": "Half note",
+        "sprite": "4.png"
+    },
+    {
+        "name": "Fourth note",
+        "sprite": "4.png"
+    }
+]
